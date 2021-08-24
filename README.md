@@ -1,4 +1,4 @@
-![kiphi23](https://user-images.githubusercontent.com/59151290/130344740-bbca78ff-6962-4e7c-b98b-a17efbe47c82.png)
+
 
 ![kiphimap](https://user-images.githubusercontent.com/59151290/130344733-fdee1657-436d-40d4-b241-fdeae6ffe59c.png)
 
