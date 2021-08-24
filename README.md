@@ -1,4 +1,4 @@
-
+THIS IS THE MAP OF THE KIPHI METAVERSE 
 
 ![kiphimap](https://user-images.githubusercontent.com/59151290/130344733-fdee1657-436d-40d4-b241-fdeae6ffe59c.png)
 
