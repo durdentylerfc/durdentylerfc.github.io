@@ -1,3 +1,7 @@
+>>>To Whome It May Concern:
+>>>Spring Board into the Kiphi-Elsewhere Data Base - inspired by Sirisys of Kiphi - SHe is the brain child of this project and anything we do consideres her and her corp in regards.  We Do Not Bite From Other Artists - We collaborate if allowed. 
+
+
 THIS IS THE MAP OF THE `KIPHI METAVERSE`     
 
 ![kiphimap](https://user-images.githubusercontent.com/59151290/130344733-fdee1657-436d-40d4-b241-fdeae6ffe59c.png)
