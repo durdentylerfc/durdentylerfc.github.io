@@ -1,6 +1,25 @@
 
 <?php
-   session_start();
+
+  session_start(); # this creates a cookie for the user to store their session data on the server
+
+  // Enable error repoting for debugging
+  error_reporting(E_ALL);
+  ini_set('display_errors', 1);
+
+  // Set JSON response header
+  header('Content-Type: application/json');
+
+  // Handle Request Method
+  $method = $_SERVER['REQUEST_METHOD'];
+  
+
+
+
+
+// Facebook App Configuration
+  $app_id = APP_ID_ENV; // Replace with your Facebook App ID
+  $app_secret = APP_SECRET_ENV; // Replace with your Facebook App Secret
 
    $fb = new Facebook\Facebook([
       'app_id' => $app_id,
@@ -21,10 +40,6 @@
       $loginUrl = $helper->getLoginUrl(['scope' => 'public_profile,email']);
       header('Location: ' . $loginUrl);
    }
-?>
- 
-<?php 
-phpinfo(); 
 ?>
 
 <!DOCTYPE html>
