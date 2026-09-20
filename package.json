@@ -1,0 +1,31 @@
+{
+  "name": "durdentylerfc.github.io",
+  "version": "1.0.0",
+  "description": "elsewhere lakes ",
+  "keywords": [
+    "elsewhere",
+    "lakes",
+    "pools",
+    "energy",
+    "star"
+  ],
+  "homepage": "https://github.com/durdentylerfc/durdentylerfc.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/durdentylerfc/durdentylerfc.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durdentylerfc/durdentylerfc.github.io.git"
+  },
+  "license": "MIT ",
+  "author": "Patrick Hollywood",
+  "type": "commonjs",
+  "main": "main.js ",
+  "scripts": {
+    "test": "mocha "
+  },
+  "dependencies": {
+    "browser-sync": "^3.0.4",
+    "vercel": "^59.23.2"
+  }
+}

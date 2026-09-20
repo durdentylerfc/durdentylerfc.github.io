@@ -3,3 +3,5 @@ copy_paste_code.md
 durdentylerfc.github.io.code-workspace
 /notes 
 node_modules
+.vercel
+pnpm-workspace.yaml
